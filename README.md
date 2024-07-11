@@ -15,10 +15,8 @@ Refud - 360 Total Security Killer Update
 
 6) UAC Bypass 
 
-##  <p align="center">
-  <a href="https://t.me/rat_dns">
-    <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
-  </a>
-  <a href="https://t.me/rat_dns">
+  ## Contact US:-
+ <p align="center">
+<a href="https://t.me/rat_dns">
     <img src="https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
   </a>
